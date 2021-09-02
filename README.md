@@ -14,9 +14,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Gmail]
-[<img align="left" alt="Ahmed Abohegazy  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="gmail_new_logo_icon_159149.png" />][Gmail]
+[<img align="left" alt="Ahmed Abohegazy  | Twitter" width="22px" src="png-clipart-twitter-twitter-thumbnail.png" />][twitter]
+[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
 [<img align="left" alt="Ahmed Abohegazy  | Instagram" width="22px" src="facebook_icon.png" />][facebook]
 
 <br />
