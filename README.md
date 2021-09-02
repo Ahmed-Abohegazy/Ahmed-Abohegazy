@@ -39,5 +39,5 @@
 [twitter]: https://twitter.com/ahmedabohegazy
 [facebook]: https://www.facebook.com/ahmed.abohegazy.12/
 [linkedin]:https://www.linkedin.com/in/ahmed-abohegazy-926555172/
-[Gmail]: ahmed.abohegazy4@gmail.com
+[Gmail]: mailto:ahmed.abohegazy4@gmail.com
 
