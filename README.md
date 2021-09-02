@@ -14,21 +14,14 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="gmail_new_logo_icon_159149.png" />][Gmail]
-[<img align="left" alt="Ahmed Abohegazy  | Twitter" width="22px" src="logo-twitter-icon-symbol-0.png" />][twitter]
-[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="LI-In-Bug.png" />][linkedin]
-[<img align="left" alt="Ahmed Abohegazy  | Instagram" width="22px" src="facebook_icon.png" />][facebook]
+[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="icons/gmail_icon.png" />][Gmail]
+[<img align="left" alt="Ahmed Abohegazy  | Twitter" width="22px" src="icons/twiter_icon.png" />][twitter]
+[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="icons/linkedin_icon.png" />][linkedin]
+[<img align="left" alt="Ahmed Abohegazy  | Instagram" width="22px" src="icons/facebook_icon.png" />][facebook]
 
 <br />
 
-### 🧰 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-<br />
-<br />
-
----
 
  
 
