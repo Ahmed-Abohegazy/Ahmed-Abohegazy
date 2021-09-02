@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed Abohegazy👋
 
-[![Website](https://https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-abohegazy-926555172/)
+[![Website](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-abohegazy-926555172/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ahmedabohegazy)
 
 ## I'm a Software engineer, Machine learning engineer , and data science enthusiast !!
