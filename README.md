@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="gmail_new_logo_icon_159149.png" />][Gmail]
 [<img align="left" alt="Ahmed Abohegazy  | Twitter" width="22px" src="logo-twitter-icon-symbol-0.png" />][twitter]
-[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
+[<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="9-99265_linkedin-icon-png-transparent-png (1).png" />][linkedin]
 [<img align="left" alt="Ahmed Abohegazy  | Instagram" width="22px" src="facebook_icon.png" />][facebook]
 
 <br />
