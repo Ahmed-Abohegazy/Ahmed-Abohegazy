@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate on Mahcine learning and deep learing development projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects 
+- 🥅 2023 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I am an automotive enthusiast "Work hard, till the door of your car opens in a vertical way"
 
 ### Connect with me:
